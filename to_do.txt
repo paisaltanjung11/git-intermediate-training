@@ -9,3 +9,4 @@ Backup file project
 Rapikan meja kerja
 Belanja kebutuhan
 Siapkan rencana besok
+Belajar Python
